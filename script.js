@@ -14,6 +14,4 @@ setInterval(() =>{
     sc.style.transform = `rotateZ(${ss}deg)`;
 });
 
-console.log('hello')
-
 
